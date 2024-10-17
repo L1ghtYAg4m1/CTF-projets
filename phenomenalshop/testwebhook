@@ -1,0 +1,1 @@
+curl.exe -X POST https://a760-188-125-171-203.ngrok-free.app:5000/webhook -H "Content-Type: application/json" -d '{"event": "order:paid", "data": {"id": "12345", "user_id": "6353080717", "amount": "10.00", "product": "Product Name"}}'
