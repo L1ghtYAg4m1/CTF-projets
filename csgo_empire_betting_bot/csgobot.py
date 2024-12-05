@@ -8,8 +8,8 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Replace with your CSGOEmpire API key and Telegram Bot Token
-CSGO_API_KEY = 'aafdb1125ecbaf01d7eb67bc6ad823bc'
-TELEGRAM_BOT_TOKEN = '8057107308:AAFics8jUIofn5z43m1ey0x0n9cLMetT6Fw'
+CSGO_API_KEY = ''
+TELEGRAM_BOT_TOKEN = ''
 BASE_URL = "https://csgoempire.com"
 socket_endpoint = "wss://trade.csgoempire.com/s/?EIO=3&transport=websocket"
 initial_bet = 1
