@@ -1,0 +1,112 @@
+Telegram Bot with Cryptocurrency Integration
+
+Overview
+
+This Python script is for a Telegram bot designed to handle user interactions and manage cryptocurrency balances. The bot uses python-telegram-bot, aiohttp, and httpx for Telegram API communication and asynchronous HTTP requests. It integrates with an SQLite database to manage user data and processes cryptocurrency transactions.
+
+Features
+
+Fetch and display user cryptocurrency balances (SOL, ETH, LTC).
+
+Maintain user balances in euros based on current conversion rates.
+
+Handle transactions securely to prevent duplicate processing.
+
+Provide a shop menu with a navigable interface.
+
+Prerequisites
+
+Python 3.8+
+
+Telegram Bot API token.
+
+Required Python libraries:
+
+python-telegram-bot
+
+aiohttp
+
+httpx
+
+nest-asyncio
+
+sqlite3
+
+Installation
+
+Clone this repository:
+
+git clone https://github.com/your-repo/telegram-bot.git
+cd telegram-bot
+
+Install the required dependencies:
+
+pip install python-telegram-bot aiohttp httpx nest-asyncio
+
+Set up the SQLite database:
+
+sqlite3 bot_database.db < schema.sql
+
+(Ensure you have a valid schema file to initialize the database.)
+
+Configure the bot token by replacing TELEGRAM_BOT_TOKEN with your bot token.
+
+Key Components
+
+Database Configuration
+
+File: bot_database.db
+
+Tables:
+
+processed_transactions: Tracks processed transactions to avoid duplicates.
+
+user_balances: Stores user balances in SOL, ETH, LTC, and EUR.
+
+Logging
+
+The bot uses Python’s logging module to provide detailed information about the bot’s activities.
+
+Asynchronous Functions
+
+get_user_balance_in_euros(user_id): Retrieves or initializes a user’s balances in the database.
+
+handle_shop(update, context): Displays the shop menu to users with navigation options.
+
+Transaction Management
+
+transaction_processed(tx_hash): Checks if a transaction has already been processed.
+
+mark_transaction_as_processed(tx_hash): Marks a transaction as processed to avoid duplication.
+
+Telegram Bot Functionality
+
+Commands: The bot handles specific user commands to display data or perform actions.
+
+Inline Keyboard: Provides navigable menus for a better user experience.
+
+How It Works
+
+Initialization:
+
+The bot applies nest_asyncio to allow nested asynchronous calls.
+
+The SQLite database connection is set up.
+
+User Interaction:
+
+Users interact with the bot via Telegram commands or button clicks.
+
+For example, the /shop command displays available shop items.
+
+Balance Management:
+
+User balances are retrieved and updated in real-time.
+
+Conversion rates are maintained globally for cryptocurrency balances.
+
+Transaction Handling:
+
+Transactions are marked as processed to prevent duplication.
+
+SQL queries ensure efficient and safe data handling.
