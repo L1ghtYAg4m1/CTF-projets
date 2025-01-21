@@ -1,2 +1,0 @@
-Trading signals based on ML model (Inference mode):
-ETH/USDT: HOLD (Trade Size: 100)
