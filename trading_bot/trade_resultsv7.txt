@@ -1,0 +1,801 @@
+Buy Entry: 97350.13, SL: 97323.66464285715, TP: 97376.59535714285
+RSI: 52.84, ATR: 79.52, Trend: sideways
+RSI: 52.07, ATR: 80.26, Trend: sideways
+RSI: 52.67, ATR: 80.26, Trend: sideways
+RSI: 57.19, ATR: 73.11, Trend: sideways
+RSI: 60.02, ATR: 75.56, Trend: sideways
+Sell Entry: 97449.82, SL: 97374.25785714286, TP: 97563.16321428573
+WIN: Profit 0.08
+RSI: 62.99, ATR: 54.92, Trend: sideways
+Sell Entry: 97573.47, SL: 97518.54571428572, TP: 97655.85642857142
+WIN: Profit 0.08
+RSI: 69.83, ATR: 50.33, Trend: sideways
+Sell Entry: 97664.86, SL: 97614.53214285715, TP: 97740.35178571429
+WIN: Profit 0.08
+RSI: 92.53, ATR: 42.72, Trend: sideways
+Sell Entry: 97768.52, SL: 97725.79857142858, TP: 97832.60214285715
+WIN: Profit 0.08
+RSI: 93.44, ATR: 48.31, Trend: sideways
+Sell Entry: 97825.9, SL: 97777.58928571428, TP: 97898.36607142857
+WIN: Profit 0.08
+RSI: 93.66, ATR: 42.99, Trend: sideways
+Sell Entry: 97878.09, SL: 97835.10357142857, TP: 97942.56964285714
+LOSS: Loss -0.08
+RSI: 82.97, ATR: 43.31, Trend: sideways
+Sell Entry: 97833.5, SL: 97790.19357142856, TP: 97898.45964285714
+No rebound confirmation. Skipping trade.
+No rebound confirmation. Skipping trade.
+No rebound confirmation. Skipping trade.
+No rebound confirmation. Skipping trade.
+No rebound confirmation. Skipping trade.
+Sell Entry: 97836.0, SL: 97793.20642857143, TP: 97900.19035714286
+WIN: Sell closed at TP. Profit: -64.19
+Sell Entry: 97839.59, SL: 97796.54, TP: 97904.165
+WIN: Sell closed at TP. Profit: -64.57
+Sell Entry: 97839.59, SL: 97796.54, TP: 97904.165
+WIN: Sell closed at TP. Profit: -64.57
+Sell Entry: 97833.18, SL: 97790.12999999999, TP: 97897.75499999999
+WIN: Sell closed at TP. Profit: -64.57
+Sell Entry: 97833.18, SL: 97790.12999999999, TP: 97897.75499999999
+WIN: Sell closed at TP. Profit: -64.57
+Sell Entry: 97833.18, SL: 97791.91928571428, TP: 97895.07107142857
+WIN: Sell closed at TP. Profit: -61.89
+Sell Entry: 97840.42, SL: 97798.64214285713, TP: 97903.08678571429
+WIN: Sell closed at TP. Profit: -62.67
+Sell Entry: 97833.18, SL: 97791.40214285714, TP: 97895.84678571428
+WIN: Sell closed at TP. Profit: -62.67
+Sell Entry: 97826.28, SL: 97784.00928571429, TP: 97889.68607142857
+WIN: Sell closed at TP. Profit: -63.41
+Sell Entry: 97824.04, SL: 97781.60928571428, TP: 97887.68607142856
+WIN: Sell closed at TP. Profit: -63.65
+Daily limit reached or max Martingale steps hit. Stopping trades.
+WIN: Profit 0.16
+RSI: 82.83, ATR: 46.44, Trend: sideways
+Sell Entry: 97911.6, SL: 97865.16071428572, TP: 97981.25892857143
+LOSS: Loss -0.08
+RSI: 67.61, ATR: 49.33, Trend: sideways
+Sell Entry: 97864.8, SL: 97815.47428571428, TP: 97938.78857142858
+WIN: Profit 0.16
+RSI: 65.88, ATR: 42.91, Trend: sideways
+Sell Entry: 97965.88, SL: 97922.97357142858, TP: 98030.23964285715
+LOSS: Loss -0.08
+RSI: 45.42, ATR: 49.79, Trend: sideways
+RSI: 47.93, ATR: 46.19, Trend: sideways
+RSI: 48.33, ATR: 46.47, Trend: sideways
+RSI: 48.48, ATR: 47.02, Trend: sideways
+RSI: 48.41, ATR: 47.02, Trend: sideways
+RSI: 47.45, ATR: 47.39, Trend: sideways
+RSI: 47.19, ATR: 47.60, Trend: sideways
+RSI: 47.17, ATR: 47.61, Trend: sideways
+RSI: 45.57, ATR: 48.91, Trend: sideways
+RSI: 43.89, ATR: 50.37, Trend: sideways
+RSI: 43.80, ATR: 50.45, Trend: sideways
+RSI: 43.80, ATR: 50.45, Trend: sideways
+RSI: 45.72, ATR: 50.45, Trend: sideways
+RSI: 50.93, ATR: 46.55, Trend: sideways
+RSI: 50.12, ATR: 47.10, Trend: sideways
+RSI: 50.56, ATR: 47.10, Trend: sideways
+RSI: 52.58, ATR: 48.29, Trend: sideways
+RSI: 52.58, ATR: 48.29, Trend: sideways
+RSI: 52.39, ATR: 48.29, Trend: sideways
+RSI: 53.48, ATR: 48.97, Trend: sideways
+RSI: 53.48, ATR: 48.97, Trend: sideways
+RSI: 53.78, ATR: 49.21, Trend: sideways
+RSI: 53.78, ATR: 49.21, Trend: sideways
+RSI: 53.78, ATR: 49.21, Trend: sideways
+RSI: 54.56, ATR: 48.35, Trend: sideways
+RSI: 54.57, ATR: 48.35, Trend: sideways
+RSI: 54.56, ATR: 48.35, Trend: sideways
+RSI: 53.50, ATR: 49.07, Trend: sideways
+RSI: 53.34, ATR: 49.18, Trend: sideways
+RSI: 53.22, ATR: 49.26, Trend: sideways
+RSI: 53.22, ATR: 49.26, Trend: sideways
+RSI: 53.22, ATR: 49.26, Trend: sideways
+RSI: 52.12, ATR: 50.03, Trend: sideways
+RSI: 51.04, ATR: 50.82, Trend: sideways
+RSI: 49.85, ATR: 51.74, Trend: sideways
+RSI: 49.70, ATR: 51.86, Trend: sideways
+RSI: 49.70, ATR: 51.86, Trend: sideways
+RSI: 49.70, ATR: 51.86, Trend: sideways
+RSI: 49.47, ATR: 52.04, Trend: sideways
+RSI: 49.34, ATR: 52.14, Trend: sideways
+RSI: 47.68, ATR: 53.52, Trend: sideways
+RSI: 47.51, ATR: 53.67, Trend: sideways
+RSI: 47.13, ATR: 54.00, Trend: sideways
+RSI: 47.13, ATR: 54.00, Trend: sideways
+RSI: 48.91, ATR: 54.00, Trend: sideways
+RSI: 48.91, ATR: 54.00, Trend: sideways
+RSI: 48.91, ATR: 54.00, Trend: sideways
+RSI: 47.78, ATR: 51.25, Trend: sideways
+RSI: 47.78, ATR: 51.25, Trend: sideways
+RSI: 47.78, ATR: 51.25, Trend: sideways
+RSI: 47.78, ATR: 51.25, Trend: sideways
+RSI: 47.78, ATR: 51.25, Trend: sideways
+RSI: 47.78, ATR: 51.25, Trend: sideways
+RSI: 47.34, ATR: 51.61, Trend: sideways
+RSI: 47.18, ATR: 51.74, Trend: sideways
+RSI: 46.82, ATR: 52.05, Trend: sideways
+RSI: 45.91, ATR: 52.84, Trend: sideways
+RSI: 45.91, ATR: 52.84, Trend: sideways
+RSI: 47.40, ATR: 50.18, Trend: sideways
+RSI: 47.40, ATR: 50.18, Trend: sideways
+RSI: 47.40, ATR: 50.18, Trend: sideways
+RSI: 47.40, ATR: 50.18, Trend: sideways
+RSI: 47.40, ATR: 50.18, Trend: sideways
+RSI: 47.38, ATR: 50.20, Trend: sideways
+RSI: 46.08, ATR: 51.31, Trend: sideways
+RSI: 45.49, ATR: 51.84, Trend: sideways
+RSI: 41.55, ATR: 56.14, Trend: sideways
+RSI: 41.46, ATR: 56.14, Trend: sideways
+RSI: 39.27, ATR: 58.63, Trend: sideways
+Buy Entry: 97706.48, SL: 97647.85, TP: 97794.42499999999
+WIN: Profit 0.16
+RSI: 39.08, ATR: 57.31, Trend: sideways
+Buy Entry: 97784.13, SL: 97726.81642857143, TP: 97870.10035714286
+RSI: 39.39, ATR: 45.03, Trend: sideways
+Buy Entry: 98081.96, SL: 98036.92928571429, TP: 98149.50607142858
+LOSS: Loss -0.08
+RSI: 28.68, ATR: 38.85, Trend: sideways
+Buy Entry: 98048.64, SL: 98009.79, TP: 98106.915
+RSI: 79.36, ATR: 43.53, Trend: sideways
+Sell Entry: 98300.89, SL: 98257.36285714286, TP: 98366.18071428571
+LOSS: Loss -0.08
+RSI: 69.44, ATR: 47.14, Trend: sideways
+Sell Entry: 98207.44, SL: 98160.29571428572, TP: 98278.15642857143
+LOSS: Loss -0.16
+RSI: 70.18, ATR: 50.21, Trend: sideways
+Sell Entry: 98190.58, SL: 98140.36785714286, TP: 98265.89821428571
+LOSS: Loss -0.31
+Daily limit reached or max Martingale steps hit. Stopping trades.
+RSI: 32.75, ATR: 42.19, Trend: sideways
+Buy Entry: 98098.65, SL: 98056.46071428571, TP: 98161.93392857142
+LOSS: Loss -0.08
+RSI: 32.45, ATR: 30.16, Trend: sideways
+Buy Entry: 98046.7, SL: 98016.53571428571, TP: 98091.94642857143
+LOSS: Loss -0.16
+RSI: 28.93, ATR: 31.28, Trend: sideways
+Buy Entry: 98014.05, SL: 97982.77285714286, TP: 98060.96571428572
+LOSS: Loss -0.31
+RSI: 27.86, ATR: 31.56, Trend: sideways
+Buy Entry: 97968.38, SL: 97936.81857142858, TP: 98015.72214285715
+WIN: Profit 0.62
+RSI: 34.29, ATR: 32.39, Trend: sideways
+Buy Entry: 98019.65, SL: 97987.26285714285, TP: 98068.23071428572
+WIN: Profit 0.08
+RSI: 45.61, ATR: 34.93, Trend: sideways
+RSI: 42.52, ATR: 34.93, Trend: sideways
+RSI: 42.51, ATR: 34.93, Trend: sideways
+RSI: 39.01, ATR: 33.28, Trend: sideways
+Buy Entry: 98053.21, SL: 98019.92785714286, TP: 98103.13321428571
+LOSS: Loss -0.08
+RSI: 36.93, ATR: 34.11, Trend: sideways
+Buy Entry: 98017.55, SL: 97983.4392857143, TP: 98068.71607142857
+LOSS: Loss -0.16
+RSI: 46.83, ATR: 31.46, Trend: sideways
+RSI: 46.20, ATR: 31.79, Trend: sideways
+RSI: 47.99, ATR: 31.79, Trend: sideways
+RSI: 47.99, ATR: 31.79, Trend: sideways
+RSI: 47.99, ATR: 31.79, Trend: sideways
+RSI: 48.75, ATR: 31.79, Trend: sideways
+RSI: 49.82, ATR: 31.99, Trend: sideways
+RSI: 50.00, ATR: 32.07, Trend: sideways
+RSI: 51.20, ATR: 32.64, Trend: sideways
+RSI: 51.94, ATR: 33.01, Trend: sideways
+RSI: 62.20, ATR: 28.72, Trend: sideways
+Sell Entry: 98013.17, SL: 97984.44499999999, TP: 98056.25749999999
+WIN: Profit 0.31
+RSI: 66.07, ATR: 31.88, Trend: sideways
+Sell Entry: 98064.91, SL: 98033.03142857143, TP: 98112.72785714286
+WIN: Profit 0.08
+RSI: 66.95, ATR: 32.00, Trend: sideways
+Sell Entry: 98102.88, SL: 98070.8792857143, TP: 98150.88107142858
+LOSS: Loss -0.08
+RSI: 49.90, ATR: 28.85, Trend: sideways
+RSI: 49.90, ATR: 28.85, Trend: sideways
+RSI: 49.85, ATR: 28.87, Trend: sideways
+RSI: 49.85, ATR: 28.87, Trend: sideways
+RSI: 49.85, ATR: 28.87, Trend: sideways
+RSI: 49.85, ATR: 28.87, Trend: sideways
+RSI: 49.85, ATR: 28.87, Trend: sideways
+RSI: 48.27, ATR: 29.70, Trend: sideways
+RSI: 48.13, ATR: 29.77, Trend: sideways
+RSI: 50.37, ATR: 30.44, Trend: sideways
+RSI: 57.20, ATR: 28.46, Trend: sideways
+RSI: 57.20, ATR: 28.46, Trend: sideways
+RSI: 57.20, ATR: 28.46, Trend: sideways
+RSI: 55.02, ATR: 28.91, Trend: sideways
+RSI: 55.02, ATR: 28.91, Trend: sideways
+RSI: 55.02, ATR: 28.91, Trend: sideways
+RSI: 55.02, ATR: 28.91, Trend: sideways
+RSI: 55.02, ATR: 28.91, Trend: sideways
+RSI: 56.60, ATR: 28.91, Trend: sideways
+RSI: 56.83, ATR: 28.91, Trend: sideways
+RSI: 56.83, ATR: 28.91, Trend: sideways
+RSI: 50.30, ATR: 25.91, Trend: sideways
+RSI: 50.30, ATR: 25.91, Trend: sideways
+RSI: 50.30, ATR: 25.91, Trend: sideways
+RSI: 50.97, ATR: 26.19, Trend: sideways
+RSI: 53.14, ATR: 27.12, Trend: sideways
+RSI: 53.14, ATR: 27.12, Trend: sideways
+RSI: 53.14, ATR: 27.12, Trend: sideways
+RSI: 53.14, ATR: 27.12, Trend: sideways
+RSI: 53.14, ATR: 27.12, Trend: sideways
+RSI: 53.14, ATR: 27.12, Trend: sideways
+RSI: 51.54, ATR: 27.12, Trend: sideways
+RSI: 50.84, ATR: 27.12, Trend: sideways
+RSI: 52.28, ATR: 26.25, Trend: sideways
+RSI: 52.28, ATR: 26.25, Trend: sideways
+RSI: 51.74, ATR: 26.46, Trend: sideways
+RSI: 51.12, ATR: 26.70, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 49.64, ATR: 27.29, Trend: sideways
+RSI: 54.79, ATR: 25.36, Trend: sideways
+RSI: 54.78, ATR: 25.36, Trend: sideways
+RSI: 54.78, ATR: 25.36, Trend: sideways
+RSI: 54.78, ATR: 25.36, Trend: sideways
+RSI: 54.78, ATR: 25.36, Trend: sideways
+RSI: 54.79, ATR: 25.36, Trend: sideways
+RSI: 54.78, ATR: 25.36, Trend: sideways
+RSI: 54.78, ATR: 25.36, Trend: sideways
+RSI: 54.79, ATR: 25.36, Trend: sideways
+RSI: 50.48, ATR: 26.95, Trend: sideways
+RSI: 50.04, ATR: 27.13, Trend: sideways
+RSI: 49.05, ATR: 27.54, Trend: sideways
+RSI: 50.17, ATR: 27.07, Trend: sideways
+RSI: 50.17, ATR: 27.07, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 51.31, ATR: 27.55, Trend: sideways
+RSI: 55.54, ATR: 25.96, Trend: sideways
+RSI: 55.54, ATR: 25.96, Trend: sideways
+RSI: 55.54, ATR: 25.96, Trend: sideways
+RSI: 55.54, ATR: 25.96, Trend: sideways
+RSI: 54.52, ATR: 26.32, Trend: sideways
+RSI: 54.52, ATR: 26.32, Trend: sideways
+RSI: 54.52, ATR: 26.32, Trend: sideways
+RSI: 55.50, ATR: 26.32, Trend: sideways
+RSI: 55.50, ATR: 26.32, Trend: sideways
+RSI: 55.50, ATR: 26.32, Trend: sideways
+RSI: 55.50, ATR: 26.32, Trend: sideways
+RSI: 52.49, ATR: 23.51, Trend: sideways
+RSI: 52.49, ATR: 23.51, Trend: sideways
+RSI: 52.49, ATR: 23.51, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 54.20, ATR: 24.19, Trend: sideways
+RSI: 51.00, ATR: 22.23, Trend: sideways
+RSI: 50.99, ATR: 22.23, Trend: sideways
+RSI: 50.99, ATR: 22.23, Trend: sideways
+RSI: 50.99, ATR: 22.23, Trend: sideways
+RSI: 51.00, ATR: 22.23, Trend: sideways
+RSI: 50.99, ATR: 22.23, Trend: sideways
+RSI: 51.00, ATR: 22.23, Trend: sideways
+RSI: 50.99, ATR: 22.23, Trend: sideways
+RSI: 50.99, ATR: 22.23, Trend: sideways
+RSI: 51.00, ATR: 22.23, Trend: sideways
+RSI: 51.00, ATR: 22.23, Trend: sideways
+RSI: 40.24, ATR: 18.84, Trend: sideways
+RSI: 40.24, ATR: 18.84, Trend: sideways
+RSI: 40.24, ATR: 18.84, Trend: sideways
+RSI: 40.24, ATR: 18.84, Trend: sideways
+RSI: 40.24, ATR: 18.84, Trend: sideways
+RSI: 39.37, ATR: 19.16, Trend: sideways
+Buy Entry: 98030.72, SL: 98011.56, TP: 98059.45999999999
+LOSS: Loss -0.16
+RSI: 34.53, ATR: 21.21, Trend: sideways
+Buy Entry: 98002.02, SL: 97980.80928571429, TP: 98033.83607142857
+WIN: Profit 0.31
+RSI: 31.24, ATR: 19.47, Trend: sideways
+Buy Entry: 98039.17, SL: 98019.69857142857, TP: 98068.37714285713
+LOSS: Loss -0.08
+RSI: 33.55, ATR: 19.44, Trend: sideways
+Buy Entry: 98018.47, SL: 97999.03, TP: 98047.63
+WIN: Profit 0.16
+RSI: 45.47, ATR: 20.67, Trend: sideways
+RSI: 46.14, ATR: 20.86, Trend: sideways
+RSI: 47.30, ATR: 21.21, Trend: sideways
+RSI: 47.30, ATR: 21.21, Trend: sideways
+RSI: 47.30, ATR: 21.21, Trend: sideways
+RSI: 47.30, ATR: 21.21, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.14, ATR: 18.16, Trend: sideways
+RSI: 51.85, ATR: 18.38, Trend: sideways
+RSI: 50.61, ATR: 17.37, Trend: sideways
+RSI: 51.93, ATR: 17.77, Trend: sideways
+RSI: 52.83, ATR: 18.07, Trend: sideways
+RSI: 53.97, ATR: 18.45, Trend: sideways
+RSI: 50.61, ATR: 18.45, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.86, ATR: 18.67, Trend: sideways
+RSI: 49.13, ATR: 17.47, Trend: sideways
+RSI: 49.12, ATR: 17.47, Trend: sideways
+RSI: 49.12, ATR: 17.47, Trend: sideways
+RSI: 49.13, ATR: 17.47, Trend: sideways
+RSI: 49.12, ATR: 17.47, Trend: sideways
+RSI: 49.12, ATR: 17.47, Trend: sideways
+RSI: 49.13, ATR: 17.47, Trend: sideways
+RSI: 49.12, ATR: 17.47, Trend: sideways
+RSI: 49.13, ATR: 17.47, Trend: sideways
+RSI: 49.12, ATR: 17.47, Trend: sideways
+RSI: 49.13, ATR: 17.47, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 52.81, ATR: 16.44, Trend: sideways
+RSI: 62.66, ATR: 14.26, Trend: sideways
+Sell Entry: 98060.61, SL: 98046.34857142858, TP: 98082.00214285713
+LOSS: Loss -0.08
+RSI: 48.35, ATR: 18.68, Trend: sideways
+RSI: 52.32, ATR: 18.68, Trend: sideways
+RSI: 52.37, ATR: 18.32, Trend: sideways
+RSI: 52.37, ATR: 18.32, Trend: sideways
+RSI: 52.75, ATR: 18.44, Trend: sideways
+RSI: 55.32, ATR: 19.29, Trend: sideways
+RSI: 55.64, ATR: 19.40, Trend: sideways
+RSI: 56.11, ATR: 19.57, Trend: sideways
+RSI: 56.77, ATR: 19.81, Trend: sideways
+RSI: 56.77, ATR: 19.81, Trend: sideways
+RSI: 58.01, ATR: 20.28, Trend: sideways
+RSI: 58.01, ATR: 20.28, Trend: sideways
+RSI: 58.01, ATR: 20.28, Trend: sideways
+RSI: 56.22, ATR: 19.61, Trend: sideways
+RSI: 56.22, ATR: 19.61, Trend: sideways
+RSI: 50.56, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 50.80, ATR: 22.30, Trend: sideways
+RSI: 52.59, ATR: 21.83, Trend: sideways
+RSI: 52.59, ATR: 21.83, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 47.12, ATR: 23.80, Trend: sideways
+RSI: 43.37, ATR: 21.98, Trend: sideways
+RSI: 43.38, ATR: 21.98, Trend: sideways
+RSI: 44.70, ATR: 22.26, Trend: sideways
+RSI: 45.03, ATR: 22.37, Trend: sideways
+RSI: 45.03, ATR: 22.37, Trend: sideways
+RSI: 42.86, ATR: 22.59, Trend: sideways
+RSI: 34.59, ATR: 26.95, Trend: sideways
+Buy Entry: 97920.01, SL: 97893.05928571428, TP: 97960.43607142856
+WIN: Profit 0.16
+RSI: 37.30, ATR: 28.20, Trend: sideways
+Buy Entry: 97965.19, SL: 97936.99142857143, TP: 98007.48785714286
+LOSS: Loss -0.08
+RSI: 27.11, ATR: 27.57, Trend: sideways
+Buy Entry: 97923.03, SL: 97895.45642857143, TP: 97964.39035714285
+WIN: Profit 0.16
+RSI: 38.85, ATR: 26.79, Trend: sideways
+Buy Entry: 97969.99, SL: 97943.20000000001, TP: 98010.175
+LOSS: Loss -0.08
+RSI: 29.17, ATR: 28.04, Trend: sideways
+Buy Entry: 97936.0, SL: 97907.96142857143, TP: 97978.05785714286
+LOSS: Loss -0.16
+RSI: 26.66, ATR: 30.08, Trend: sideways
+Buy Entry: 97907.4, SL: 97877.31785714286, TP: 97952.52321428571
+WIN: Profit 0.31
+RSI: 44.34, ATR: 28.68, Trend: sideways
+RSI: 44.34, ATR: 28.68, Trend: sideways
+RSI: 45.80, ATR: 29.26, Trend: sideways
+RSI: 45.79, ATR: 29.26, Trend: sideways
+RSI: 45.80, ATR: 29.26, Trend: sideways
+RSI: 45.79, ATR: 29.26, Trend: sideways
+RSI: 47.05, ATR: 29.78, Trend: sideways
+RSI: 47.05, ATR: 29.78, Trend: sideways
+RSI: 57.25, ATR: 24.44, Trend: sideways
+RSI: 51.38, ATR: 26.57, Trend: sideways
+RSI: 51.38, ATR: 26.57, Trend: sideways
+RSI: 53.23, ATR: 26.57, Trend: sideways
+RSI: 53.23, ATR: 26.57, Trend: sideways
+RSI: 50.87, ATR: 26.78, Trend: sideways
+RSI: 50.87, ATR: 26.78, Trend: sideways
+RSI: 50.87, ATR: 26.78, Trend: sideways
+RSI: 50.87, ATR: 26.78, Trend: sideways
+RSI: 48.67, ATR: 27.73, Trend: sideways
+RSI: 48.67, ATR: 27.73, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 41.08, ATR: 24.90, Trend: sideways
+RSI: 42.50, ATR: 25.37, Trend: sideways
+RSI: 45.76, ATR: 23.53, Trend: sideways
+RSI: 45.76, ATR: 23.53, Trend: sideways
+RSI: 47.27, ATR: 24.08, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 47.66, ATR: 24.22, Trend: sideways
+RSI: 48.54, ATR: 22.24, Trend: sideways
+RSI: 50.39, ATR: 22.96, Trend: sideways
+RSI: 50.89, ATR: 23.16, Trend: sideways
+RSI: 53.46, ATR: 24.27, Trend: sideways
+RSI: 53.46, ATR: 24.27, Trend: sideways
+RSI: 53.46, ATR: 24.27, Trend: sideways
+RSI: 52.29, ATR: 24.27, Trend: sideways
+RSI: 52.29, ATR: 24.27, Trend: sideways
+RSI: 54.88, ATR: 24.93, Trend: sideways
+RSI: 55.64, ATR: 25.31, Trend: sideways
+RSI: 56.76, ATR: 25.88, Trend: sideways
+RSI: 56.85, ATR: 25.93, Trend: sideways
+RSI: 60.27, ATR: 26.74, Trend: sideways
+Sell Entry: 98007.55, SL: 97980.81285714285, TP: 98047.65571428572
+LOSS: Loss -0.08
+RSI: 53.55, ATR: 33.02, Trend: sideways
+RSI: 53.19, ATR: 32.63, Trend: sideways
+RSI: 53.19, ATR: 32.63, Trend: sideways
+RSI: 53.19, ATR: 32.63, Trend: sideways
+RSI: 53.19, ATR: 32.63, Trend: sideways
+RSI: 53.19, ATR: 32.63, Trend: sideways
+RSI: 52.25, ATR: 33.11, Trend: sideways
+RSI: 52.06, ATR: 33.20, Trend: sideways
+RSI: 51.91, ATR: 33.28, Trend: sideways
+RSI: 51.09, ATR: 33.72, Trend: sideways
+RSI: 51.09, ATR: 33.72, Trend: sideways
+RSI: 51.09, ATR: 33.72, Trend: sideways
+RSI: 53.36, ATR: 32.54, Trend: sideways
+RSI: 53.36, ATR: 32.54, Trend: sideways
+RSI: 53.36, ATR: 32.54, Trend: sideways
+RSI: 52.00, ATR: 33.23, Trend: sideways
+RSI: 49.52, ATR: 34.59, Trend: sideways
+RSI: 49.47, ATR: 34.62, Trend: sideways
+RSI: 47.55, ATR: 35.77, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 47.06, ATR: 36.08, Trend: sideways
+RSI: 45.63, ATR: 37.02, Trend: sideways
+RSI: 45.62, ATR: 37.02, Trend: sideways
+RSI: 44.72, ATR: 37.65, Trend: sideways
+RSI: 44.53, ATR: 37.78, Trend: sideways
+RSI: 43.23, ATR: 38.73, Trend: sideways
+RSI: 43.23, ATR: 38.73, Trend: sideways
+RSI: 42.56, ATR: 39.25, Trend: sideways
+RSI: 41.53, ATR: 40.07, Trend: sideways
+RSI: 38.54, ATR: 42.70, Trend: sideways
+Buy Entry: 97808.49, SL: 97765.78785714286, TP: 97872.54321428572
+WIN: Profit 0.16
+RSI: 47.84, ATR: 40.07, Trend: sideways
+RSI: 48.56, ATR: 40.55, Trend: sideways
+RSI: 47.63, ATR: 40.55, Trend: sideways
+RSI: 47.63, ATR: 40.55, Trend: sideways
+RSI: 47.63, ATR: 40.55, Trend: sideways
+RSI: 47.63, ATR: 40.55, Trend: sideways
+RSI: 47.51, ATR: 40.55, Trend: sideways
+RSI: 47.51, ATR: 40.55, Trend: sideways
+RSI: 47.51, ATR: 40.55, Trend: sideways
+RSI: 46.14, ATR: 39.69, Trend: sideways
+RSI: 46.14, ATR: 39.69, Trend: sideways
+RSI: 46.14, ATR: 39.69, Trend: sideways
+RSI: 44.98, ATR: 40.54, Trend: sideways
+RSI: 44.38, ATR: 41.01, Trend: sideways
+RSI: 44.38, ATR: 41.01, Trend: sideways
+RSI: 44.38, ATR: 41.01, Trend: sideways
+RSI: 44.38, ATR: 41.01, Trend: sideways
+RSI: 42.55, ATR: 42.49, Trend: sideways
+RSI: 42.55, ATR: 42.49, Trend: sideways
+RSI: 42.55, ATR: 42.49, Trend: sideways
+RSI: 37.23, ATR: 39.44, Trend: sideways
+Buy Entry: 97850.35, SL: 97810.90642857144, TP: 97909.51535714285
+LOSS: Loss -0.08
+RSI: 37.19, ATR: 41.06, Trend: sideways
+Buy Entry: 97810.81, SL: 97769.75, TP: 97872.4
+LOSS: Loss -0.16
+RSI: 28.56, ATR: 48.21, Trend: sideways
+Buy Entry: 97700.24, SL: 97652.03142857143, TP: 97772.55285714286
+LOSS: Loss -0.31
+RSI: 46.46, ATR: 30.02, Trend: sideways
+RSI: 46.46, ATR: 30.02, Trend: sideways
+RSI: 46.46, ATR: 30.02, Trend: sideways
+RSI: 39.60, ATR: 26.65, Trend: sideways
+Buy Entry: 97639.68, SL: 97613.0257142857, TP: 97679.66142857142
+LOSS: Loss -0.62
+RSI: 34.10, ATR: 31.10, Trend: sideways
+Buy Entry: 97589.3, SL: 97558.20214285715, TP: 97635.94678571429
+WIN: Profit 1.25
+RSI: 39.82, ATR: 31.10, Trend: sideways
+Buy Entry: 97641.45, SL: 97610.35214285714, TP: 97688.09678571428
+LOSS: Loss -0.08
+RSI: 38.94, ATR: 33.10, Trend: sideways
+Buy Entry: 97616.2, SL: 97583.09571428571, TP: 97665.85642857142
+WIN: Profit 0.16
+RSI: 45.72, ATR: 36.35, Trend: sideways
+RSI: 46.87, ATR: 36.87, Trend: sideways
+RSI: 49.57, ATR: 38.19, Trend: sideways
+RSI: 51.45, ATR: 39.20, Trend: sideways
+RSI: 51.51, ATR: 39.23, Trend: sideways
+RSI: 51.51, ATR: 39.23, Trend: sideways
+RSI: 51.52, ATR: 39.23, Trend: sideways
+RSI: 51.51, ATR: 39.23, Trend: sideways
+RSI: 51.52, ATR: 39.23, Trend: sideways
+RSI: 56.69, ATR: 36.91, Trend: sideways
+RSI: 57.95, ATR: 37.65, Trend: sideways
+RSI: 60.29, ATR: 39.15, Trend: sideways
+Sell Entry: 97766.19, SL: 97727.03928571429, TP: 97824.91607142857
+LOSS: Loss -0.08
+RSI: 50.34, ATR: 41.52, Trend: sideways
+RSI: 50.34, ATR: 41.52, Trend: sideways
+RSI: 49.03, ATR: 42.29, Trend: sideways
+RSI: 48.08, ATR: 42.86, Trend: sideways
+RSI: 48.08, ATR: 42.86, Trend: sideways
+RSI: 49.41, ATR: 42.06, Trend: sideways
+RSI: 49.41, ATR: 42.06, Trend: sideways
+RSI: 49.41, ATR: 42.06, Trend: sideways
+RSI: 49.41, ATR: 42.06, Trend: sideways
+RSI: 50.50, ATR: 42.70, Trend: sideways
+RSI: 50.85, ATR: 42.91, Trend: sideways
+RSI: 49.41, ATR: 43.70, Trend: sideways
+RSI: 48.30, ATR: 44.78, Trend: sideways
+RSI: 49.32, ATR: 44.78, Trend: sideways
+RSI: 49.42, ATR: 44.78, Trend: sideways
+RSI: 49.42, ATR: 44.78, Trend: sideways
+RSI: 49.42, ATR: 44.78, Trend: sideways
+RSI: 43.72, ATR: 46.85, Trend: sideways
+RSI: 43.71, ATR: 46.85, Trend: sideways
+RSI: 43.71, ATR: 46.85, Trend: sideways
+RSI: 43.71, ATR: 46.85, Trend: sideways
+RSI: 43.72, ATR: 46.85, Trend: sideways
+RSI: 43.72, ATR: 46.85, Trend: sideways
+RSI: 43.71, ATR: 46.85, Trend: sideways
+RSI: 43.72, ATR: 46.85, Trend: sideways
+RSI: 43.71, ATR: 46.85, Trend: sideways
+RSI: 44.94, ATR: 46.85, Trend: sideways
+RSI: 44.98, ATR: 46.85, Trend: sideways
+RSI: 42.87, ATR: 45.73, Trend: sideways
+RSI: 42.87, ATR: 45.73, Trend: sideways
+RSI: 42.87, ATR: 45.73, Trend: sideways
+RSI: 42.87, ATR: 45.73, Trend: sideways
+RSI: 42.33, ATR: 46.11, Trend: sideways
+RSI: 40.95, ATR: 47.11, Trend: sideways
+RSI: 40.78, ATR: 47.23, Trend: sideways
+RSI: 40.78, ATR: 47.23, Trend: sideways
+RSI: 40.24, ATR: 47.65, Trend: sideways
+RSI: 40.24, ATR: 47.65, Trend: sideways
+RSI: 41.38, ATR: 47.65, Trend: sideways
+RSI: 37.00, ATR: 43.67, Trend: sideways
+Buy Entry: 97657.87, SL: 97614.20214285713, TP: 97723.37178571429
+LOSS: Loss -0.16
+RSI: 40.73, ATR: 49.52, Trend: sideways
+RSI: 40.73, ATR: 49.52, Trend: sideways
+RSI: 41.37, ATR: 49.52, Trend: sideways
+RSI: 40.90, ATR: 49.52, Trend: sideways
+RSI: 40.90, ATR: 49.52, Trend: sideways
+RSI: 45.14, ATR: 46.41, Trend: sideways
+RSI: 45.14, ATR: 46.41, Trend: sideways
+RSI: 47.48, ATR: 47.75, Trend: sideways
+RSI: 47.48, ATR: 47.75, Trend: sideways
+RSI: 47.48, ATR: 47.75, Trend: sideways
+RSI: 47.48, ATR: 47.75, Trend: sideways
+RSI: 48.96, ATR: 48.66, Trend: sideways
+RSI: 48.97, ATR: 48.66, Trend: sideways
+RSI: 48.52, ATR: 48.66, Trend: sideways
+RSI: 48.52, ATR: 48.66, Trend: sideways
+RSI: 49.49, ATR: 48.99, Trend: sideways
+RSI: 52.19, ATR: 44.08, Trend: sideways
+RSI: 52.19, ATR: 44.08, Trend: sideways
+RSI: 52.19, ATR: 44.46, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 51.45, ATR: 44.91, Trend: sideways
+RSI: 52.39, ATR: 41.32, Trend: sideways
+RSI: 53.71, ATR: 42.21, Trend: sideways
+RSI: 53.77, ATR: 42.26, Trend: sideways
+RSI: 53.84, ATR: 42.30, Trend: sideways
+RSI: 54.22, ATR: 42.57, Trend: sideways
+RSI: 54.78, ATR: 42.97, Trend: sideways
+RSI: 54.78, ATR: 42.97, Trend: sideways
+RSI: 54.78, ATR: 42.97, Trend: sideways
+RSI: 54.84, ATR: 43.02, Trend: sideways
+RSI: 54.84, ATR: 43.02, Trend: sideways
+RSI: 54.84, ATR: 43.02, Trend: sideways
+RSI: 54.84, ATR: 43.02, Trend: sideways
+RSI: 55.30, ATR: 40.42, Trend: sideways
+RSI: 55.30, ATR: 40.42, Trend: sideways
+RSI: 55.26, ATR: 40.42, Trend: sideways
+RSI: 54.58, ATR: 40.42, Trend: sideways
+RSI: 54.58, ATR: 40.42, Trend: sideways
+RSI: 54.58, ATR: 40.42, Trend: sideways
+RSI: 56.91, ATR: 41.66, Trend: sideways
+RSI: 57.54, ATR: 42.18, Trend: sideways
+RSI: 57.54, ATR: 42.18, Trend: sideways
+RSI: 57.70, ATR: 42.31, Trend: sideways
+RSI: 58.19, ATR: 42.73, Trend: sideways
+RSI: 56.96, ATR: 41.70, Trend: sideways
+RSI: 56.96, ATR: 41.70, Trend: sideways
+RSI: 58.74, ATR: 43.19, Trend: sideways
+RSI: 58.73, ATR: 43.19, Trend: sideways
+RSI: 44.80, ATR: 29.76, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 45.42, ATR: 29.99, Trend: sideways
+RSI: 40.27, ATR: 28.19, Trend: sideways
+RSI: 38.61, ATR: 29.00, Trend: sideways
+Buy Entry: 105208.59, SL: 105179.59357142857, TP: 105252.08464285714
+LOSS: Loss -0.08
+RSI: 21.25, ATR: 24.30, Trend: sideways
+Buy Entry: 105176.23, SL: 105151.92785714286, TP: 105212.68321428572
+WIN: Profit 0.16
+RSI: 41.91, ATR: 27.08, Trend: sideways
+RSI: 40.72, ATR: 27.08, Trend: sideways
+RSI: 41.96, ATR: 27.08, Trend: sideways
+RSI: 41.96, ATR: 27.08, Trend: sideways
+RSI: 41.96, ATR: 27.08, Trend: sideways
+RSI: 41.96, ATR: 27.08, Trend: sideways
+RSI: 41.97, ATR: 27.08, Trend: sideways
+RSI: 42.93, ATR: 24.66, Trend: sideways
+RSI: 48.39, ATR: 26.60, Trend: sideways
+RSI: 49.32, ATR: 26.96, Trend: sideways
+RSI: 50.98, ATR: 27.66, Trend: sideways
+RSI: 50.98, ATR: 27.66, Trend: sideways
+RSI: 43.86, ATR: 27.66, Trend: sideways
+RSI: 48.09, ATR: 27.66, Trend: sideways
+RSI: 48.09, ATR: 27.66, Trend: sideways
+RSI: 50.25, ATR: 28.37, Trend: sideways
+RSI: 51.84, ATR: 28.37, Trend: sideways
+RSI: 51.84, ATR: 28.37, Trend: sideways
+RSI: 54.74, ATR: 27.23, Trend: sideways
+RSI: 54.74, ATR: 27.23, Trend: sideways
+RSI: 54.74, ATR: 27.23, Trend: sideways
+RSI: 51.05, ATR: 28.71, Trend: sideways
+RSI: 50.13, ATR: 29.11, Trend: sideways
+RSI: 50.13, ATR: 29.11, Trend: sideways
+RSI: 50.67, ATR: 29.11, Trend: sideways
+RSI: 50.69, ATR: 29.11, Trend: sideways
+RSI: 46.69, ATR: 30.76, Trend: sideways
+RSI: 44.75, ATR: 31.80, Trend: sideways
+RSI: 44.72, ATR: 31.82, Trend: sideways
+RSI: 48.26, ATR: 29.98, Trend: sideways
+RSI: 48.26, ATR: 29.98, Trend: sideways
+RSI: 48.26, ATR: 29.98, Trend: sideways
+RSI: 48.26, ATR: 29.98, Trend: sideways
+RSI: 48.26, ATR: 29.98, Trend: sideways
+RSI: 48.26, ATR: 29.98, Trend: sideways
+RSI: 55.84, ATR: 33.97, Trend: sideways
+RSI: 56.50, ATR: 34.39, Trend: sideways
+RSI: 61.25, ATR: 37.77, Trend: sideways
+Sell Entry: 105331.57, SL: 105293.79714285715, TP: 105388.22928571429
+WIN: Profit 0.08
+RSI: 72.58, ATR: 41.68, Trend: sideways
+Sell Entry: 105396.18, SL: 105354.49857142857, TP: 105458.70214285713
+LOSS: Loss -0.08
+RSI: 66.54, ATR: 42.98, Trend: sideways
+Sell Entry: 105346.33, SL: 105303.35285714286, TP: 105410.79571428572
+WIN: Profit 0.16
+RSI: 71.40, ATR: 46.47, Trend: sideways
+Sell Entry: 105426.81, SL: 105380.34357142857, TP: 105496.50964285714
+LOSS: Loss -0.08
+RSI: 63.69, ATR: 50.79, Trend: sideways
+Sell Entry: 105357.81, SL: 105307.02357142857, TP: 105433.98964285714
+WIN: Profit 0.16
+RSI: 70.52, ATR: 65.23, Trend: sideways
+Sell Entry: 105475.54, SL: 105410.30714285714, TP: 105573.38928571428
+WIN: Profit 0.08
+RSI: 77.74, ATR: 63.11, Trend: sideways
+Sell Entry: 105563.18, SL: 105500.06928571427, TP: 105657.84607142856
+WIN: Profit 0.08
+RSI: 77.68, ATR: 53.75, Trend: sideways
+Sell Entry: 105660.26, SL: 105606.51428571428, TP: 105740.87857142858
+WIN: Profit 0.08
+RSI: 87.63, ATR: 55.81, Trend: sideways
+Sell Entry: 105754.99, SL: 105699.18, TP: 105838.70500000002
+LOSS: Loss -0.08
+RSI: 76.90, ATR: 62.21, Trend: sideways
+Sell Entry: 105695.26, SL: 105633.0507142857, TP: 105788.57392857144
+WIN: Profit 0.16
+RSI: 88.15, ATR: 63.18, Trend: sideways
+Sell Entry: 105795.45, SL: 105732.27071428571, TP: 105890.21892857144
+WIN: Profit 0.08
+RSI: 98.41, ATR: 62.45, Trend: sideways
+Sell Entry: 105897.2, SL: 105834.7507142857, TP: 105990.87392857144
+WIN: Profit 0.08
+RSI: 99.57, ATR: 67.50, Trend: sideways
+Sell Entry: 106000.0, SL: 105932.50428571428, TP: 106101.24357142858
+WIN: Profit 0.08
+RSI: 99.67, ATR: 77.69, Trend: sideways
+Sell Entry: 106119.0, SL: 106041.30785714285, TP: 106235.53821428571
+LOSS: Loss -0.08
+RSI: 83.86, ATR: 91.41, Trend: sideways
+Sell Entry: 106076.56, SL: 105985.15214285714, TP: 106213.6717857143
+WIN: Profit 0.16
+RSI: 83.38, ATR: 104.06, Trend: sideways
+Sell Entry: 106225.12, SL: 106121.06357142856, TP: 106381.20464285715
+LOSS: Loss -0.08
+RSI: 64.11, ATR: 122.43, Trend: sideways
+Sell Entry: 106109.68, SL: 105987.25214285713, TP: 106293.32178571427
+LOSS: Loss -0.16
+RSI: 44.67, ATR: 116.85, Trend: sideways
+RSI: 43.00, ATR: 119.38, Trend: sideways
+RSI: 42.66, ATR: 120.01, Trend: sideways
+RSI: 41.99, ATR: 121.79, Trend: sideways
+RSI: 30.94, ATR: 111.76, Trend: sideways
+Buy Entry: 105869.11, SL: 105757.34714285715, TP: 106036.75428571428
+LOSS: Loss -0.31
+Daily limit reached or max Martingale steps hit. Stopping trades.
+RSI: 76.59, ATR: 128.71, Trend: sideways
+Sell Entry: 104850.01, SL: 104721.29857142856, TP: 105043.07714285713
